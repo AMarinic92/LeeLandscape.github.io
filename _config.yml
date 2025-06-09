@@ -1,6 +1,5 @@
-title: Lee's Landscape
-logo: /assets/img/logo.png
-description: Landscaping Services
-show_downloads: false
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
